@@ -1,1 +1,1 @@
-# Bank-Customer-Insights-SQL-+Tableau
+# Bank-Customer-Insights-SQL+Tableau
